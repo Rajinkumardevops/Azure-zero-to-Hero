@@ -1,115 +1,110 @@
-**Day 1: Understanding Cloud Concepts, Vocabulary and Terminology**
+**Understanding Cloud Concepts, Vocabulary and Terminology**
 
-1.What is cloud ? 
-2.What is the difference between public, private and hybrid cloud ?
-3What is cloud computing ?
-4.Vocabulary
-5.Virtualization
-6.Virtual Machine
-API
-Regions
-Avalaibility Zones
-Scalability
-Elasticity
-Agility
-High Availability
-Fault Tolerance
-Disaster Recovery
-Load Balancing
+•	What is Devops ? 
+•	what is cloud?
+•	What is the difference between public, private and hybrid cloud ?
+•	What is cloud computing ?
+•	Vocabulary
+•	Virtualization
+•	Virtual Machine
+•	API
+•	Regions
+•	Avalaibility Zones
 
-**Day 2: Getting Started with Azure**
 
-Creating an Account with Azure
-Exploring Regions and Availability Zones in Azure
-IaaS vs PaaS vs SaaS models in Azure
+**Getting Started with Azure****
 
-**Day 3: Azure Resources,Resource Groups and Resource Manager**
+•	Creating an Account with Azure
+•	Exploring Regions and Availability Zones in Azure
+•	IaaS vs PaaS vs SaaS models in Azure
 
-Resources in Azure
-Resource Groups in Azure
-Azure Resource Manager Overview
+**Azure Resources,Resource Groups and Resource Manager****
 
-**Day 4: Azure Virtual Machines**
+•	Resources in Azure
+•	Resource Groups in Azure
+•	Azure Resource Manager Overview
 
-Virtualization recap.
-Create a Virtual Machine in Azure
-Connect to the Virtual Machine
-Deploy your first application on an Azure VM
-Virtual Machine ScaleSets for Autoscaling
-**Day 5: Azure Networking Services**
+**Azure Virtual Machines**
+•	Virtualization recap.
+•	Create a Virtual Machine in Azure
+•	Connect to the Virtual Machine
+•	Deploy your first application on an Azure VM
+•	Virtual Machine ScaleSets for Autoscaling
 
-Overview of Azure Networking (Real World Example)
-Virtual Network
-Subnets, CIDR
-Routes and Route Tables
-Network Security Groups(NSGs)
-Application Security Groups(ASGs).
+**Azure Networking Services****
 
-**Day 6: Advanced Networking Services**
+•	Overview of Azure Networking (Real World Example)
+•	Virtual Network
+•	Subnets, CIDR
+•	Routes and Route Tables
+•	Network Security Groups(NSGs)
+•	Application Security Groups(ASGs).
 
-Azure App Gateway & WAF
-Azure Load Balancer
-Azure DNS
-Azure Firewall
-Virtual Network Peering and VNet Gateway
-VPN Gateway
+**Advanced Networking Services****
 
-**Day 7: Deploying an application behind Firewall on Azure - (PROJECT 1)**
+•	Azure App Gateway & WAF
+•	Azure Load Balancer
+•	Azure DNS
+•	Azure Firewall
+•	Virtual Network Peering and VNet Gateway
+•	VPN Gateway
 
-Practical Hands on video that explains
-How to set up the networking
-How to deploy the applcition on Azure VMs with Networking and use bastion.
-Overview of the setup and troubleshooting.
+**Deploying an application behind Firewall on Azure - (PROJECT 1)**
 
-**Day 8: Azure Interview Questions (Compute and Networking)**
+•	Practical Hands on video that explains
+•	How to set up the networking
+•	How to deploy the applcition on Azure VMs with Networking and use bastion.
+•	Overview of the setup and troubleshooting.
 
-Interview Questions on the topics covered till Day 6
-Cloud computing concepts
-Azure Basics
-Azure Networking
+**Azure Interview Questions (Compute and Networking)**
 
-**Day 9: Azure Storage Services**
+•	Interview Questions on the topics covered till Day 6
+•	Cloud computing concepts
+•	Azure Basics
+•	Azure Networking
 
-Types of Azure Storage Services
-Use Cases
+**DAzure Storage Services**
 
-**Day 10: Command Line Interface for Azure**
+•	Types of Azure Storage Services
+•	Use Cases
 
-Azure CLI Deep Dive
-Using Azure CLI to create resources on Azure
-Usecases and multiple references
+**Command Line Interface for Azure**
 
-**Day 11: Azure Resource Manager**
+•	Azure CLI Deep Dive
+•	Using Azure CLI to create resources on Azure
+•	Usecases and multiple references
 
-Azure Resource Manager and Azure Templates Deep Dive
-Comparison with Bicep
-Comparison with Azure CLI
-Comparison with Terraform
+**Azure Resource Manager**
 
-**Day 12: Azure Identity and Access Management (IAM)**
+•	Azure Resource Manager and Azure Templates Deep Dive
+•	Comparison with Bicep
+•	Comparison with Azure CLI
+•	Comparison with Terraform
 
-Authentication Services in Azure
-Identity Access Management (IAM)
-Implementing RBAC
-Best Practices for RBAC.
+**Azure Identity and Access Management (IAM)**
 
-**Day 13: Introduction to Azure DevOps**
+•	Authentication Services in Azure
+•	Identity Access Management (IAM)
+•	Implementing RBAC
+•	Best Practices for RBAC.
 
-Overview of Azure DevOps
-Introduction to the Azure DevOps services
-Setting Up Projects and Repositories
+**Introduction to Azure DevOps**
 
-**Day 14: Azure DevOps - CI Setup - (PROJECT 2)**
+•	Overview of Azure DevOps
+•	Introduction to the Azure DevOps services
+•	Setting Up Projects and Repositories
 
-Implementing Continuous Deployment (CD)
-Using AKS for CD
-Creating AKS cluster on Azure
-Configuring Virtual Machine Scale Sets as Node pools in AKS
-Hands on sessions on AKS
-End to End CI/CD Demonstration
-**
-**Day 16: Azure Kubernetes Services(AKS Deep Dive)****
+**Azure DevOps - CI Setup - (PROJECT 2)**
 
-AKS Deep Dive
-Understanding AKS vs Self managed Kubernetes clusters
+•	Implementing Continuous Deployment (CD)
+•	Using AKS for CD
+•	Creating AKS cluster on Azure
+•	Configuring Virtual Machine Scale Sets as Node pools in AKS
+•	Hands on sessions on AKS
+•	End to End CI/CD Demonstration
+**Azure Kubernetes Services(AKS Deep Dive)**
+
+•	AKS Deep Dive
+•	Understanding AKS vs Self managed Kubernetes clusters
+
 

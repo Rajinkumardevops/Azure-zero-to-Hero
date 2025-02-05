@@ -155,13 +155,13 @@
 •	AKS Deep Dive
 •	Understanding AKS vs Self managed Kubernetes clusters
 
-**Day 24: Azure DevOps Resume preparation for Freshers and Experienced**
+**Azure DevOps Resume preparation for Freshers and Experienced**
 
 •	How to create an impressive resume on Azure DevOps
 
 •	How to add projects to the Resume
 
-**Day 25: Azure Interview Preparion**
+**Azure Interview Preparion**
 
 •	Review of Key Concepts
 

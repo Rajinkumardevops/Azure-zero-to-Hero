@@ -88,6 +88,7 @@
 - Overview of Azure DevOps
 - Introduction to the Azure DevOps services
 - Setting Up Projects and Repositories
+- https://github.com/dockersamples/example-voting-app
 
 ## Day 14: Azure DevOps - CI Setup - (PROJECT 2)
 - Implementing Continuous Integration (CI)
